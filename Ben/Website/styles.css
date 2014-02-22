@@ -21,3 +21,16 @@ a {
 	margin: 0 auto;
 	width: 900px;
 }
+.about {
+	display: inline-block;
+	margin: 15px 0 0 0;
+}
+.column {
+	background-color: #CE4D4F;
+	color: #263039;
+	height: 210px;
+	width: 260px;
+	float: left;
+	padding: 20px 15px;
+	text-align: center;
+}
