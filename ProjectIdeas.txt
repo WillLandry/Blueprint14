@@ -1,0 +1,13 @@
+Project Ideas:
+
+1. Online To-Do List
+	-A list of tasks to do in a pretty, minimalist interface
+	-Would involve:
+		-HTML Frontend
+			-Graphical interface
+			-User Entry
+		-Serverside Processing and Storage
+			-Maintaining users tasks etc.
+		OR We could attempt a cookie based system (no server)
+
+	-Features:
