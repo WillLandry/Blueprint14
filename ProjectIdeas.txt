@@ -11,3 +11,14 @@ Project Ideas:
 		OR We could attempt a cookie based system (no server)
 
 	-Features:
+
+
+2. Audio file analyzer 
+
+3. Hobbit hole investigations
+
+4. Ruminati
+
+5. Flexible online education resources
+
+6.
